@@ -1,0 +1,62 @@
+body {
+	background-color: rgb(240,240,240);
+	/*THIS IS A COMMENT */
+}
+
+h2{
+font-size: 40px; 
+color: rgb (30,30,30);
+margin-top: 2em;
+}
+
+
+p {
+	color: #627F74
+	/*THIS IS A COMMENT */
+}
+
+#header {
+	background-image: url(https://www.top10berlin.de/sites/top10berlin.de/files/styles/juicebox/public/location/slider/2016/06/27/top10berlin_badeseen_sacrower-see002.jpg?itok=l8lLvAHK);
+padding: 200px;
+background-size: cover;
+text-align: center;
+color: #FFFFFF;
+border-color: white;
+border-width: 5px;
+border-style: solid;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.header {
+	text-align: center;
+}
+
+.foto {
+	text-align: center;
+}
+
+.foto img {
+	border-radius: 30px;
+	width: 400px}
+
+
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+#footer
+{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  margin-top: 2em;
+  text-align: center;
+}
+
+
